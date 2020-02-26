@@ -6,7 +6,6 @@ function addElement() {
     inputArray.push(inputEle);
 }
 
-
 //function to create a new p element,which display value of array in it's html
 function displayElement() {
     for (let index=0;index<inputArray.length;index++){
